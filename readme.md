@@ -63,3 +63,6 @@ Corrida con **pivoteo parcial escalado** y una pasada de refinamiento iterativo:
 
 El análisis completo de estrategia, conteo paso a paso, pérdida de mantisa, condicionamiento y verificación se encuentra en [informe.md](informe.md).
 
+## Licencia
+
+Material de uso académico desarrollado para la asignatura Computación Numérica (INF-321), Universidad Católica del Maule.
